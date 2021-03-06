@@ -1,0 +1,1 @@
+# lidl-store-scraper
